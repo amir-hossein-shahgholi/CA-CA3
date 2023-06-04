@@ -1,0 +1,9 @@
+module reg_32b ( input [31:0] IN,input sclr, load, clk,output reg[31:0] out);
+    always @(posedge clk)
+    begin
+        if (sclr == 1'b1)
+            out = 32'd0;
+        else if (load)
+            out = IN;
+    end    
+endmodule

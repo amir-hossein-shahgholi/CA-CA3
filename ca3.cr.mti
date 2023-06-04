@@ -1,0 +1,359 @@
+C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/ex_mem.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/ex_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module EXMEM_ctrl
+-- Compiling module EXMEM_datas
+
+Top level modules:
+	EXMEM_ctrl
+	EXMEM_datas
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX1.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1_32b
+
+Top level modules:
+	mux2to1_32b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/DP.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/DP.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/hazard_detection_unit.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/hazard_detection_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hazard_detection_unit
+
+Top level modules:
+	hazard_detection_unit
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/MEMWB.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/MEMWB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MEMWB_ctrl
+-- Compiling module MEMWB_datas
+
+Top level modules:
+	MEMWB_ctrl
+	MEMWB_datas
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX5.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX5.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1_11b
+
+Top level modules:
+	mux2to1_11b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/alu_controller.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/alu_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu_controller
+
+Top level modules:
+	alu_controller
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/reg_32b.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/reg_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_32b
+
+Top level modules:
+	reg_32b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/datapath.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/alu.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/alu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/TOPmodule.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/TOPmodule.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mips_pipeline
+
+Top level modules:
+	mips_pipeline
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/mux2to1_11b.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/mux2to1_11b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1_11b
+
+Top level modules:
+	mux2to1_11b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/IFID.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/IFID.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IFID
+
+Top level modules:
+	IFID
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX2.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4to1_32b
+
+Top level modules:
+	mux4to1_32b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/alu_controller.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/alu_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu_controller
+
+Top level modules:
+	alu_controller
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/shl2_32b.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/shl2_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shl2_32b
+
+Top level modules:
+	shl2_32b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/shl2_26b.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/shl2_26b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shl2_26b
+
+Top level modules:
+	shl2_26b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/datamem.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/datamem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/id_ex.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/id_ex.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IDEX_ctrl
+-- Compiling module IDEX_datas
+
+Top level modules:
+	IDEX_ctrl
+	IDEX_datas
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/forwarding_unit.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/forwarding_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module forward_unit
+
+Top level modules:
+	forward_unit
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/instmem.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/instmem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module inst_mem
+
+Top level modules:
+	inst_mem
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/adder_32b.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/adder_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_32b
+
+Top level modules:
+	adder_32b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/mem_wb.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/mem_wb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MEMWB_ctrl
+-- Compiling module MEMWB_datas
+
+Top level modules:
+	MEMWB_ctrl
+	MEMWB_datas
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/mips_pipe_tb.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/mips_pipe_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mips_pipe_tb
+
+Top level modules:
+	mips_pipe_tb
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/inst_mem.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/inst_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module inst_mem
+
+Top level modules:
+	inst_mem
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/adder_32b.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/adder_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_32b
+
+Top level modules:
+	adder_32b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX3.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux3to1_5b
+
+Top level modules:
+	mux3to1_5b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/alu.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/alu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/controller.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/mux2to1_32b.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/mux2to1_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1_32b
+
+Top level modules:
+	mux2to1_32b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/sign_ext.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/sign_ext.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sign_ext
+
+Top level modules:
+	sign_ext
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/reg_32b.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/reg_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_32b
+
+Top level modules:
+	reg_32b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/controller.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/mux3to1_5b.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/mux3to1_5b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux3to1_5b
+
+Top level modules:
+	mux3to1_5b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/mux3to1_32b.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/mux3to1_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux3to1_32b
+
+Top level modules:
+	mux3to1_32b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX4.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux3to1_32b
+
+Top level modules:
+	mux3to1_32b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/if_id.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/if_id.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IFID
+
+Top level modules:
+	IFID
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/reg_file.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/mips_pipeline.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/mips_pipeline.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mips_pipeline
+
+Top level modules:
+	mips_pipeline
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/regfile.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/regfile.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/mux4to1_32b.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/mux4to1_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4to1_32b
+
+Top level modules:
+	mux4to1_32b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/data_mem.v {2 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/data_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+** Warning: C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/data_mem.v(2): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/data_mem.v(46): (vlog-2284) Empty $unit scope found.
+-- Compiling package data_mem_v_unit
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/shl2_32b.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/shl2_32b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shl2_32b
+
+Top level modules:
+	shl2_32b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/hazard_detection_unit.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/hazard_detection_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hazard_detection_unit
+
+Top level modules:
+	hazard_detection_unit
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/IDEX.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/IDEX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IDEX_ctrl
+-- Compiling module IDEX_datas
+
+Top level modules:
+	IDEX_ctrl
+	IDEX_datas
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/forwarding_unit.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/forwarding_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module forward_unit
+
+Top level modules:
+	forward_unit
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/signextend.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/signextend.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sign_ext
+
+Top level modules:
+	sign_ext
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/shl2_26b.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/shl2_26b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shl2_26b
+
+Top level modules:
+	shl2_26b
+
+} {} {}} C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/EXMEM.v {1 {vlog -work work -stats=none C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/EXMEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module EXMEM_ctrl
+-- Compiling module EXMEM_datas
+
+Top level modules:
+	EXMEM_ctrl
+	EXMEM_datas
+
+} {} {}}

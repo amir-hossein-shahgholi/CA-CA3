@@ -1,0 +1,711 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Lenovo/Desktop/CA3-codes
+vadder_32b
+Z0 !s110 1655295677
+!i10b 1
+!s100 cAM@bZ4cIMVbVMW_ok1Aa0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I5Z2ab9TonkakCG<`9Ae1?0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work
+w1655291261
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/adder_32b.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/adder_32b.v
+!i122 668
+Z4 L0 1 3
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1655295677.000000
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/adder_32b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/adder_32b.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+valu
+R0
+!i10b 1
+!s100 F1jkXD`1fRFZFfKDP:46X1
+R1
+I<J`P5KaV7GOb:maj7j_GO3
+R2
+R3
+w1655233818
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/alu.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/alu.v
+!i122 669
+L0 1 11
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/alu.v|
+!i113 1
+R7
+R8
+valu_controller
+Z9 !s110 1655295678
+!i10b 1
+!s100 LFPeaHR:LQ6f67cD`Cghc2
+R1
+I7h1MNXo8@8cJb?QW?]VA<1
+R2
+R3
+w1655227240
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/alu_controller.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/alu_controller.v
+!i122 670
+Z10 L0 1 23
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/alu_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/alu_controller.v|
+!i113 1
+R7
+R8
+vcontroller
+R9
+!i10b 1
+!s100 g=Q=nY6bjMoDkLGk`IjZ30
+R1
+I>d0Y7Bz167RFjJ]e9_=Aj3
+R2
+R3
+w1655233343
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/controller.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/controller.v
+!i122 671
+L0 1 28
+R5
+r1
+!s85 0
+31
+!s108 1655295678.000000
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/controller.v|
+!i113 1
+R7
+R8
+vdata_mem
+Z11 !s110 1655295688
+!i10b 1
+!s100 6>278[^`J;Xi>;[caDcPD0
+R1
+ICjRW=BgoFfDA_La`mo;jz2
+R2
+R3
+w1655295012
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/datamem.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/datamem.v
+!i122 690
+L0 2 14
+R5
+r1
+!s85 0
+31
+Z12 !s108 1655295688.000000
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/datamem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/datamem.v|
+!i113 1
+R7
+R8
+Xdata_mem_v_unit
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1655288975
+V6XmjfE<KoBX2>6lZgQV2A0
+r1
+!s85 0
+!i10b 1
+!s100 21F8@VbO?bcXhHdQ`kZon3
+I6XmjfE<KoBX2>6lZgQV2A0
+!i103 1
+S1
+R3
+w1655233623
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/data_mem.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/data_mem.v
+!i122 472
+L0 1 0
+R5
+31
+!s108 1655288975.000000
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/data_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/data_mem.v|
+!i113 1
+R7
+R8
+vdatapath
+Z13 !s110 1655295687
+!i10b 1
+!s100 ;GLfE71>T`e7jPMY^5A3`3
+R1
+IB3iH3bOZYA73aY7B2e7U90
+R2
+R3
+w1655294888
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/DP.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/DP.v
+!i122 688
+L0 1 85
+R5
+r1
+!s85 0
+31
+Z14 !s108 1655295687.000000
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/DP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/DP.v|
+!i113 1
+R7
+R8
+vEXMEM_ctrl
+Z15 !s110 1655295685
+!i10b 1
+!s100 F;SA1_[Jd^A2f<c4dG@1b0
+R1
+ImR:>P^Lmz6Z>OF]35b;[42
+R2
+R3
+Z16 w1655294630
+Z17 8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/ex_mem.v
+Z18 FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/ex_mem.v
+!i122 684
+L0 1 17
+R5
+r1
+!s85 0
+31
+Z19 !s108 1655295685.000000
+Z20 !s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/ex_mem.v|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/ex_mem.v|
+!i113 1
+R7
+R8
+n@e@x@m@e@m_ctrl
+vEXMEM_datas
+R15
+!i10b 1
+!s100 8Nfle4>zbb4bTTUiUgi<I2
+R1
+IhSJBH1hN^IkbGW^U3[5871
+R2
+R3
+R16
+R17
+R18
+!i122 684
+L0 18 18
+R5
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 1
+R7
+R8
+n@e@x@m@e@m_datas
+vforward_unit
+!s110 1655295679
+!i10b 1
+!s100 6lncX<Y25eKYfo5Z>oSUC1
+R1
+I:ZgoXSREailXdi>WMhRJm2
+R2
+R3
+w1655234443
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/forwarding_unit.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/forwarding_unit.v
+!i122 672
+L0 1 21
+R5
+r1
+!s85 0
+31
+Z22 !s108 1655295679.000000
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/forwarding_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/forwarding_unit.v|
+!i113 1
+R7
+R8
+vhazard_detection_unit
+Z23 !s110 1655295680
+!i10b 1
+!s100 llDdVFQ=[KN8:ZH:7gjm50
+R1
+IDh2Lc^T]RzZMPjzki_ao<0
+R2
+R3
+w1655291341
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/hazard_detection_unit.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/hazard_detection_unit.v
+!i122 673
+Z24 L0 1 13
+R5
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/hazard_detection_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/hazard_detection_unit.v|
+!i113 1
+R7
+R8
+vIDEX_ctrl
+Z25 !s110 1655295686
+!i10b 1
+!s100 53Fa:iJf;gIKM^JgGnhCP3
+R1
+I?XzAQ:MNY@`O=PooY`NQ63
+R2
+R3
+Z26 w1655294683
+Z27 8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/id_ex.v
+Z28 FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/id_ex.v
+!i122 685
+R10
+R5
+r1
+!s85 0
+31
+R19
+Z29 !s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/id_ex.v|
+Z30 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/id_ex.v|
+!i113 1
+R7
+R8
+n@i@d@e@x_ctrl
+vIDEX_datas
+R25
+!i10b 1
+!s100 4g3EC8<FFnYLXS:[iNSc40
+R1
+I?Hdm0T[1JP_DD>b9L[g[Z3
+R2
+R3
+R26
+R27
+R28
+!i122 685
+L0 24 26
+R5
+r1
+!s85 0
+31
+R19
+R29
+R30
+!i113 1
+R7
+R8
+n@i@d@e@x_datas
+vIFID
+Z31 !s110 1655295684
+!i10b 1
+!s100 KiHP==YP^5jd2V_Yj[W=:2
+R1
+Ibe<HWA0[]Z:5Jh@oN3bK?1
+R2
+R3
+w1655294569
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/if_id.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/if_id.v
+!i122 683
+L0 1 20
+R5
+r1
+!s85 0
+31
+Z32 !s108 1655295684.000000
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/if_id.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/if_id.v|
+!i113 1
+R7
+R8
+n@i@f@i@d
+vinst_mem
+Z33 !s110 1655295689
+!i10b 1
+!s100 zSXRa[E[]Ko6F3=cbzdf:0
+R1
+IkCG=9[L`A[ah48kKJ;dH<0
+R2
+R3
+w1655295061
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/instmem.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/instmem.v
+!i122 691
+Z34 L0 1 7
+R5
+r1
+!s85 0
+31
+Z35 !s108 1655295689.000000
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/instmem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/instmem.v|
+!i113 1
+R7
+R8
+vMEMWB_ctrl
+R25
+!i10b 1
+!s100 ;b:O3]40CIi0XV2jURc[72
+R1
+IB:z68Vh7YH3z>CZ:U>64U3
+R2
+R3
+Z36 w1655294772
+Z37 8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/mem_wb.v
+Z38 FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/mem_wb.v
+!i122 686
+R24
+R5
+r1
+!s85 0
+31
+Z39 !s108 1655295686.000000
+Z40 !s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/mem_wb.v|
+Z41 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/mem_wb.v|
+!i113 1
+R7
+R8
+n@m@e@m@w@b_ctrl
+vMEMWB_datas
+R13
+!i10b 1
+!s100 <f2OMC8CdRNF]:o_JWkHT1
+R1
+I5BfcVB?;oc@`<MA8?Mo_20
+R2
+R3
+R36
+R37
+R38
+!i122 686
+L0 15 16
+R5
+r1
+!s85 0
+31
+R39
+R40
+R41
+!i113 1
+R7
+R8
+n@m@e@m@w@b_datas
+vmips_pipe_tb
+!s110 1655295216
+!i10b 1
+!s100 bN7?6jn8;4Gf0X]MaFAIb0
+R1
+IF;N=dMXD@0bcN`?^9h:KK2
+R2
+R3
+w1655294847
+Z42 8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/TB.v
+Z43 FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/TB.v
+!i122 662
+Z44 L0 2 15
+R5
+r1
+!s85 0
+31
+!s108 1655295216.000000
+Z45 !s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/TB.v|
+Z46 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/TB.v|
+!i113 1
+R7
+R8
+vmips_pipeline
+R33
+!i10b 1
+!s100 ;;QZkP[Wh:8<bPe>IlkZn0
+R1
+IoHh3UG4:BY1l_OVUH@NR;2
+R2
+R3
+w1655295104
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/TOPmodule.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/TOPmodule.v
+!i122 692
+L0 1 16
+R5
+r1
+!s85 0
+31
+R35
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/TOPmodule.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/TOPmodule.v|
+!i113 1
+R7
+R8
+vMIPSTB
+R13
+!i10b 1
+!s100 2UI2^O1zA:Q?Gi3I1U3kC0
+R1
+IIPHL0lhPKUbE=Rgam=M?23
+R2
+R3
+w1655295674
+R42
+R43
+!i122 687
+R44
+R5
+r1
+!s85 0
+31
+R14
+R45
+R46
+!i113 1
+R7
+R8
+n@m@i@p@s@t@b
+vmux2to1_11b
+Z47 !s110 1655295683
+!i10b 1
+!s100 DOKcfLI501R3ef8gWob@<0
+R1
+I6IM8_?KQIMPh6=Q^G^MHN2
+R2
+R3
+w1655294388
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX5.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX5.v
+!i122 681
+R4
+R5
+r1
+!s85 0
+31
+Z48 !s108 1655295683.000000
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX5.v|
+!i113 1
+R7
+R8
+vmux2to1_32b
+Z49 !s110 1655295681
+!i10b 1
+!s100 ;C70;L;MlTzefdHij[clS1
+R1
+Ic=<UDQF9SZT66e=MmzQfV3
+R2
+R3
+w1655294113
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX1.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX1.v
+!i122 677
+R4
+R5
+r1
+!s85 0
+31
+Z50 !s108 1655295681.000000
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX1.v|
+!i113 1
+R7
+R8
+vmux3to1_32b
+R47
+!i10b 1
+!s100 `Lob0TLca30gKY:0EWJil1
+R1
+IV1bH9oiWLd1[<:WCD]YH`2
+R2
+R3
+w1655294339
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX4.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX4.v
+!i122 680
+Z51 L0 1 4
+R5
+r1
+!s85 0
+31
+R48
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX4.v|
+!i113 1
+R7
+R8
+vmux3to1_5b
+Z52 !s110 1655295682
+!i10b 1
+!s100 GzUJFL2`>A?fS;Y]3@25Z3
+R1
+I<S:fMin;Ul54H_Hd`[0UO2
+R2
+R3
+w1655294251
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX3.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX3.v
+!i122 679
+R51
+R5
+r1
+!s85 0
+31
+Z53 !s108 1655295682.000000
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX3.v|
+!i113 1
+R7
+R8
+vmux4to1_32b
+R52
+!i10b 1
+!s100 fBQWo<0QjX0]A]k`YHV9^1
+R1
+I]K6cc=FfAO]8C2neeK]4d3
+R2
+R3
+w1655294187
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX2.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX2.v
+!i122 678
+R34
+R5
+r1
+!s85 0
+31
+R53
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/MUX2.v|
+!i113 1
+R7
+R8
+vreg_32b
+R23
+!i10b 1
+!s100 Ljc_;B`LgACh9f9FE6`PB0
+R1
+I6AGa5C]DYF97SaLYFVL>X0
+R2
+R3
+w1655291161
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/reg_32b.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/reg_32b.v
+!i122 674
+L0 1 9
+R5
+r1
+!s85 0
+31
+Z54 !s108 1655295680.000000
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/reg_32b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/reg_32b.v|
+!i113 1
+R7
+R8
+vreg_file
+R11
+!i10b 1
+!s100 Ycn0l:Va>E?Tz:IXFR:<O3
+R1
+IVnP@W8=anj[MKa=WkC?dd2
+R2
+R3
+w1655294972
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/regfile.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/regfile.v
+!i122 689
+L0 1 15
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/regfile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/regfile.v|
+!i113 1
+R7
+R8
+vshl2_26b
+R49
+!i10b 1
+!s100 K=4Nk[15OzB7T3UbNg9522
+R1
+I;UkkAJO3W00Z=[k^oV85l1
+R2
+R3
+w1655291967
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/shl2_26b.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/shl2_26b.v
+!i122 675
+R51
+R5
+r1
+!s85 0
+31
+R54
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/shl2_26b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/shl2_26b.v|
+!i113 1
+R7
+R8
+vshl2_32b
+R49
+!i10b 1
+!s100 4A>[h^RN_STzAYC_9[V3c1
+R1
+IXK3F9E[f<X]O@zi>3mLO70
+R2
+R3
+w1655291551
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/shl2_32b.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/shl2_32b.v
+!i122 676
+R4
+R5
+r1
+!s85 0
+31
+R50
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/shl2_32b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/shl2_32b.v|
+!i113 1
+R7
+R8
+vsign_ext
+R31
+!i10b 1
+!s100 ZRPUI1e[Po5SM:cIVQ7G32
+R1
+Il33DKU73Eo0=ig;aOoZX30
+R2
+R3
+w1655294524
+8C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/signextend.v
+FC:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/signextend.v
+!i122 682
+R51
+R5
+r1
+!s85 0
+31
+R32
+!s107 C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/signextend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lenovo/Desktop/Computer-Architecture-Course-Projects-master/MIPS-Pipeline/work/signextend.v|
+!i113 1
+R7
+R8
